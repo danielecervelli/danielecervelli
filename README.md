@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Daniele, a computer engineering student.<br>I have good knowledge in web development (especially front-end) and a solid foundation in programming.<br>My goal? To become a good software engineer.<br>I am always open to learning new technologies and getting involved.
+Hi, I'm Daniele, a computer engineering student.<br>I have good knowledge in web development (especially front-end) and a solid foundation in programming.<br>I'm always open to learning new technologies.
 
 
 # Tech Stack:
