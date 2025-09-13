@@ -1,5 +1,6 @@
 # About Me:
-Hi, I'm Daniele, a computer engineering student.<br>I have good knowledge in web development (especially front-end) and a solid foundation in programming.<br>I'm always open to learning new technologies.
+I'm a computer engineering student with a passion for web and software development, as well as project management.
+In my free time, I work on personal projects or collaborate with others to challenge myself and expand my skillset.
 
 
 # Tech Stack:
